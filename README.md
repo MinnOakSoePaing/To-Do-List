@@ -16,6 +16,6 @@
 - **ThaiwindCss** for styling the list and buttons.
 - **JavaScript (ES6)** for handling task management logic.
 
-Note: Since this project is styled with **Tailwind CSS**, you will need to install Tailwind CSS first. You can follow the step-by-step installation process by referring to the official Tailwind CSS installation guide:[Tailwind CSS Installation Guide](https://tailwindcss.com/docs/installation)
+Note: Since this project is styled with **Tailwind CSS**, you will need to install Tailwind CSS first. You can follow the step-by-step installation process by referring to the official Tailwind CSS installation guide: [Tailwind CSS Installation Guide](https://tailwindcss.com/docs/installation)
 
 *** Please ensure Tailwind is properly set up before running the projects. ***
